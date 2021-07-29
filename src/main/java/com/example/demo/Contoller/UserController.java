@@ -9,7 +9,7 @@ public class UserController {
 	@GetMapping("/mine")
 	public String message()
 	{
-		return "This is the message. This file is added";
+		return "This is the message.Not needed";
 		
 	}
 
