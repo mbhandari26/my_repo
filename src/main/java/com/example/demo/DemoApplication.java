@@ -10,10 +10,10 @@ public class DemoApplication {
 		System.out.println("its me");
 		System.out.println("commit2");
 		System.out.println("Hello");
-		System.out.println("revert this");
-		System.out.println("i am dev");
-		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("hello");
 
+		System.out.println("revert this");
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
