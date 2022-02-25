@@ -9,7 +9,7 @@ public class UserController {
 	@GetMapping("/mine")
 	public String message()
 	{
-		return "This is the message.Not needed";
+		return "Hello";
 		
 	}
 
