@@ -11,6 +11,7 @@ public class DemoApplication {
 		System.out.println("commit2");
 		System.out.println("Hello");
 		System.out.println("hello");
+		System.out.println("checking");
 
 		System.out.println("revert this");
 		SpringApplication.run(DemoApplication.class, args);
