@@ -8,6 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("merged");
+		System.out.printf("remove this");
 		System.out.println("its me");
 		System.out.println("commit2");
 		System.out.println("Hello");
